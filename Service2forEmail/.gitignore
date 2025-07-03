@@ -1,0 +1,13 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+ECHO is on.
+# Ignore build output
+bin/
+obj/
+ECHO is on.
+# Ignore temporary files
+*.log
+*.tmp
+*.cache
